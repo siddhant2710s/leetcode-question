@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

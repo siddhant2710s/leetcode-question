@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant2710s/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant2710s/leetcode-question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant2710s/leetcode-question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->

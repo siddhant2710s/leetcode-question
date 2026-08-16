@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddhant2710s/leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant2710s/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant2710s/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

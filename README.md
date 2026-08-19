@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant2710s/leetcode-question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/siddhant2710s/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/siddhant2710s/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

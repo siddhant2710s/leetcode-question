@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/siddhant2710s/leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/siddhant2710s/leetcode-question/tree/master/0020-valid-parentheses) |
+| [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/siddhant2710s/leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |

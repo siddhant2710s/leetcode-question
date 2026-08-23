@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddhant2710s/leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant2710s/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhant2710s/leetcode-question/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/siddhant2710s/leetcode-question/tree/master/0035-search-insert-position) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhant2710s/leetcode-question/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddhant2710s/leetcode-question/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/siddhant2710s/leetcode-question/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

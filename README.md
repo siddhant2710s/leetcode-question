@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/siddhant2710s/leetcode-question/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/siddhant2710s/leetcode-question/tree/master/0067-add-binary) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/siddhant2710s/leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/siddhant2710s/leetcode-question/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/siddhant2710s/leetcode-question/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/siddhant2710s/leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siddhant2710s/leetcode-question/tree/master/0067-add-binary) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant2710s/leetcode-question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siddhant2710s/leetcode-question/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhant2710s/leetcode-question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/siddhant2710s/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/siddhant2710s/leetcode-question/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddhant2710s/leetcode-question/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/siddhant2710s/leetcode-question/tree/master/0069-sqrtx) |
 | [1140-stone-game-ii](https://github.com/siddhant2710s/leetcode-question/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/siddhant2710s/leetcode-question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhant2710s/leetcode-question/tree/master/2029-stone-game-ix) |
@@ -118,8 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddhant2710s/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/siddhant2710s/leetcode-question/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/siddhant2710s/leetcode-question/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddhant2710s/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/siddhant2710s/leetcode-question/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
